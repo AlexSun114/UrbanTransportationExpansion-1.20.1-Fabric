@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "urbantransportationexpansion:wrench_stick"
+    },
+    "S": {
+      "item": "urbantransportationexpansion:material/steel_ingot"
+    }
+  },
+  "pattern": [
+    "S  ",
+    " # ",
+    "  #"
+  ],
+  "result": {
+    "item": "urbantransportationexpansion:wrench"
+  },
+  "show_notification": true
+}

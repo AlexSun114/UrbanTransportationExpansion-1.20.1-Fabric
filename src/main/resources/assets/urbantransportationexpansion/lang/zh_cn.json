@@ -1,0 +1,14 @@
+{
+  "item.urbantransportationexpansion.wrench": "扳手",
+  "item.urbantransportationexpansion.wrench_stick": "扳手棒",
+  "item.urbantransportationexpansion.material.steel_ingot": "钢锭",
+  "item.urbantransportationexpansion.material.raw_steel": "粗钢",
+
+
+  "block.urbantransportationexpansion.steel_block": "钢块",
+  "block.urbantransportationexpansion.steel_ore": "钢原矿",
+  "block.urbantransportationexpansion.jade_block": "翡翠块",
+
+  "itemGroup.ute_mod": "UTE模组物品",
+  "itemGroup.ute_material": "UTE模组材料"
+}

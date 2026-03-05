@@ -1,0 +1,7 @@
+{
+  "replace": "false",
+  "values": [
+    "urbantransportationexpansion:steel_ore",
+    "urbantransportationexpansion:steel_block"
+  ]
+}

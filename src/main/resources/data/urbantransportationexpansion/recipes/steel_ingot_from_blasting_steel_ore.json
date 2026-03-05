@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "steel",
+  "ingredient": {
+    "item": "urbantransportationexpansion:steel_ore"
+  },
+  "result": "urbantransportationexpansion:material/steel_ingot"
+}

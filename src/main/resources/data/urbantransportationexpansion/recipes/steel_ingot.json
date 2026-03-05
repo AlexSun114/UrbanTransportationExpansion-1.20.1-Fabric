@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "steel",
+  "ingredients": [
+    {
+      "item": "urbantransportationexpansion:steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "urbantransportationexpansion:material/steel_ingot"
+  }
+}

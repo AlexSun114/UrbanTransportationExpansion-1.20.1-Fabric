@@ -1,0 +1,15 @@
+{
+  "item.urbantransportationexpansion.wrench": "Wrench",
+  "item.urbantransportationexpansion.wrench_stick": "Wrench Stick",
+  "item.urbantransportationexpansion.material.steel_ingot": "Steel Ingot",
+  "item.urbantransportationexpansion.material.raw_steel": "Raw Steel",
+
+
+  "block.urbantransportationexpansion.steel_block": "Steel Block",
+  "block.urbantransportationexpansion.steel_ore": "Steel Ore",
+  "block.urbantransportationexpansion.jade_block": "Jade Block",
+
+
+  "itemGroup.ute_mod": "UTE Mod",
+  "itemGroup.ute_material": "UTE Material"
+}
