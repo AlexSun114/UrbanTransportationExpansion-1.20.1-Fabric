@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "phase=green": { "model": "urbantransportationexpansion:block/traffic_light_green" },
+    "phase=yellow": { "model": "urbantransportationexpansion:block/traffic_light_yellow" },
+    "phase=red": { "model": "urbantransportationexpansion:block/traffic_light_red" }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    " G ",
+    "IRI",
+    " I "
+  ],
+  "result": {
+    "item": "urbantransportationexpansion:traffic_light",
+    "count": 1
+  },
+  "show_notification": true
+}
