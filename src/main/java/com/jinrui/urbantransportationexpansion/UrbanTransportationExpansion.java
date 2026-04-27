@@ -1,8 +1,11 @@
 package com.jinrui.urbantransportationexpansion;
 
 import com.jinrui.urbantransportationexpansion.block.ModBlocks;
+import com.jinrui.urbantransportationexpansion.block.entity.ModBlockEntities;
 import com.jinrui.urbantransportationexpansion.item.ModItemGroups;
 import com.jinrui.urbantransportationexpansion.item.ModItems;
+import com.jinrui.urbantransportationexpansion.network.ModNetworking;
+import com.jinrui.urbantransportationexpansion.screen.ModScreenHandlers;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -24,6 +27,9 @@ public class UrbanTransportationExpansion implements ModInitializer {
         ModItems.registerItems();
         ModItemGroups.registerGroups();
         ModBlocks.registerModBlocks();
+        ModBlockEntities.register();
+        ModScreenHandlers.register();
+        ModNetworking.registerServer();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

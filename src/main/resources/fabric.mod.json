@@ -18,6 +18,9 @@
 		"main": [
 			"com.jinrui.urbantransportationexpansion.UrbanTransportationExpansion"
 		],
+		"client": [
+			"com.jinrui.urbantransportationexpansion.UrbanTransportationExpansionClient"
+		],
 		"fabric-datagen": [
 			"com.jinrui.urbantransportationexpansion.UrbanTransportationExpansionDataGenerator"
 		]
@@ -29,6 +32,7 @@
 		"fabricloader": ">=0.18.4",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
-		"fabric-api": "*"
+		"fabric-api": "*",
+		"mtr": ">=3.2.2"
 	}
 }

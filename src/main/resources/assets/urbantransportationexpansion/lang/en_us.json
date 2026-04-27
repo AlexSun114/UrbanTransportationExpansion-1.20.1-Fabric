@@ -8,6 +8,18 @@
   "block.urbantransportationexpansion.steel_block": "Steel Block",
   "block.urbantransportationexpansion.steel_ore": "Steel Ore",
   "block.urbantransportationexpansion.jade_block": "Jade Block",
+  "block.urbantransportationexpansion.asphalt": "Asphalt",
+  "block.urbantransportationexpansion.traffic_light": "Traffic Light",
+
+  "gui.urbantransportationexpansion.traffic_light.title": "Traffic Light Debug",
+  "gui.urbantransportationexpansion.traffic_light.current": "Current: %s (%ss left)",
+  "gui.urbantransportationexpansion.traffic_light.phase.green": "GREEN",
+  "gui.urbantransportationexpansion.traffic_light.phase.yellow": "YELLOW",
+  "gui.urbantransportationexpansion.traffic_light.phase.red": "RED",
+  "gui.urbantransportationexpansion.traffic_light.green": "Green",
+  "gui.urbantransportationexpansion.traffic_light.yellow": "Yellow",
+  "gui.urbantransportationexpansion.traffic_light.red": "Red",
+  "gui.urbantransportationexpansion.traffic_light.apply": "Apply",
 
 
   "itemGroup.ute_mod": "UTE Mod",

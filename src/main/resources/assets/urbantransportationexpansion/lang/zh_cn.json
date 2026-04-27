@@ -8,6 +8,18 @@
   "block.urbantransportationexpansion.steel_block": "钢块",
   "block.urbantransportationexpansion.steel_ore": "钢原矿",
   "block.urbantransportationexpansion.jade_block": "翡翠块",
+  "block.urbantransportationexpansion.asphalt": "沥青路面",
+  "block.urbantransportationexpansion.traffic_light": "红绿灯",
+
+  "gui.urbantransportationexpansion.traffic_light.title": "红绿灯调试",
+  "gui.urbantransportationexpansion.traffic_light.current": "当前：%s（剩余%ss）",
+  "gui.urbantransportationexpansion.traffic_light.phase.green": "绿灯",
+  "gui.urbantransportationexpansion.traffic_light.phase.yellow": "黄灯",
+  "gui.urbantransportationexpansion.traffic_light.phase.red": "红灯",
+  "gui.urbantransportationexpansion.traffic_light.green": "绿灯",
+  "gui.urbantransportationexpansion.traffic_light.yellow": "黄灯",
+  "gui.urbantransportationexpansion.traffic_light.red": "红灯",
+  "gui.urbantransportationexpansion.traffic_light.apply": "应用",
 
   "itemGroup.ute_mod": "UTE模组物品",
   "itemGroup.ute_material": "UTE模组材料"

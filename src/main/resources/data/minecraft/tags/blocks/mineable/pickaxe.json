@@ -2,6 +2,8 @@
   "replace": "false",
   "values": [
     "urbantransportationexpansion:steel_block",
-    "urbantransportationexpansion:steel_ore"
+    "urbantransportationexpansion:steel_ore",
+    "urbantransportationexpansion:asphalt",
+    "urbantransportationexpansion:traffic_light"
   ]
 }

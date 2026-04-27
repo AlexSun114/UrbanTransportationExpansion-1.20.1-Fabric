@@ -44,6 +44,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.STEEL_ORE);
                         entries.add(ModBlocks.STEEL_BLOCK);
                         entries.add(ModBlocks.JADE_BLOCK);
+                        entries.add(ModBlocks.ASPHALT);
+                        entries.add(ModBlocks.TRAFFIC_LIGHT);
 
 
                     }).build());

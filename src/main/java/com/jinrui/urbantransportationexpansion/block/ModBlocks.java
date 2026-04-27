@@ -1,6 +1,7 @@
 package com.jinrui.urbantransportationexpansion.block;
 
 import com.jinrui.urbantransportationexpansion.UrbanTransportationExpansion;
+import com.jinrui.urbantransportationexpansion.block.custom.TrafficLightBlock;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -15,6 +16,8 @@ public class ModBlocks {
     public static final Block STEEL_BLOCK = register("steel_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(1.5f,3.0f)));
     public static final Block STEEL_ORE = register("steel_ore", new Block(AbstractBlock.Settings.create().requiresTool().strength(1.5f,3.0f)));
     public static final Block JADE_BLOCK = register("jade_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(1.5f,3.0f)));
+    public static final Block ASPHALT = register("asphalt", new Block(AbstractBlock.Settings.copy(Blocks.STONE).requiresTool().strength(1.8f, 6.0f)));
+    public static final Block TRAFFIC_LIGHT = register("traffic_light", new TrafficLightBlock(AbstractBlock.Settings.copy(Blocks.IRON_BLOCK).requiresTool().strength(2.0f, 6.0f)));
 
 
     public static Block register(String id, Block block) {
